@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="proj_calculator_class.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="71" Y="14"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../../../../mycalculator.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MyCalculator"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="41"/>
+        <CursorPos X="10" Y="42"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="calculatorunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="6"/>
+        <CursorPos X="35" Y="95"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="calculatorunit.pas"/>
+        <Caret Line="97" Column="23" TopLine="85"/>
+      </Position1>
+      <Position2>
+        <Filename Value="calculatorunit.pas"/>
+        <Caret Line="93" Column="12" TopLine="82"/>
+      </Position2>
+      <Position3>
+        <Filename Value="calculatorunit.pas"/>
+        <Caret Line="102" Column="19" TopLine="83"/>
+      </Position3>
+      <Position4>
+        <Filename Value="calculatorunit.pas"/>
+        <Caret Line="94" Column="71" TopLine="83"/>
+      </Position4>
+      <Position5>
+        <Filename Value="calculatorunit.pas"/>
+        <Caret Line="30" Column="19" TopLine="16"/>
+      </Position5>
+      <Position6>
+        <Filename Value="calculatorunit.pas"/>
+        <Caret Line="31" Column="18" TopLine="24"/>
+      </Position6>
+      <Position7>
+        <Filename Value="calculatorunit.pas"/>
+        <Caret Line="32" Column="23" TopLine="16"/>
+      </Position7>
+      <Position8>
+        <Filename Value="calculatorunit.pas"/>
+        <Caret Line="63" Column="12" TopLine="44"/>
+      </Position8>
+      <Position9>
+        <Filename Value="calculatorunit.pas"/>
+        <Caret Line="61" Column="8" TopLine="44"/>
+      </Position9>
+      <Position10>
+        <Filename Value="calculatorunit.pas"/>
+        <Caret Line="38" Column="22" TopLine="15"/>
+      </Position10>
+      <Position11>
+        <Filename Value="calculatorunit.pas"/>
+        <Caret Line="65" Column="18" TopLine="53"/>
+      </Position11>
+      <Position12>
+        <Filename Value="calculatorunit.pas"/>
+        <Caret Line="55" Column="5" TopLine="39"/>
+      </Position12>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
